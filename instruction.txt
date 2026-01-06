@@ -1,0 +1,24 @@
+
+MOVING THE CAMERA
+RMB - moving the camera
+Alt + LMB - camera rotation
+LMB - selection
+
+GENERAL SETTINGS
+G - move a object
+R - rotation a object
+S - scale a object
+Ctrl + E - export scene to .obj file 
+
+CREATE OBJECT
+1 - create Cube
+2 - create Sphere
+3 - create Conus
+4 - create Plane
+5 - create Cylynder
+6 - create my model(its head)
+7 - create Torus
+8 - create Capsule
+
+MODIFY, CREATE, LEARN, DO WHATEVER YOU WANT.
+(PLEASE ADD MY NAME)
